@@ -1,8 +1,8 @@
-package hello;
+package com.gubs.springboot.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import hello.User;
+import com.gubs.springboot.entity.User;
 
 // This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository
 // CRUD refers Create, Read, Update, Delete
